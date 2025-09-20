@@ -1,0 +1,2 @@
+# twitchbot
+facultatif, mais pratique
